@@ -1,0 +1,31 @@
+/*
+
+selector {
+    property:value;
+    property:value;
+    property:value;
+}
+
+*/
+
+.btn {
+}
+
+.hl-title {
+  background-color: #ffcc00;
+  width: 300px;
+  height: 13px;
+}
+
+.hl-role {
+  background-color: #ffcc00;
+  width: 300px;
+  height: 13px;
+}
+
+h1 {
+  font-family: 'Rubik', sans-serif;
+  color: #c610e3;
+  font-weight: 800px;
+  font-size: 60px;
+}
